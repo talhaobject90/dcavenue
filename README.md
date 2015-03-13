@@ -1,5 +1,9 @@
-A simple django app to integrate with CCAvenue using **Advanced Site
+ A simple django app to integrate with CCAvenue using **Advanced Site
 Integration for Real Time Success Failure**.
+
+This documentation is for initial reference , More detailed one is under preperation.
+
+
 
 # installation
 
